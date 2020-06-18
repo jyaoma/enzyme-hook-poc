@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test2 should render correctly 1`] = `
+<div
+  className="cat-facts__container"
+/>
+`;

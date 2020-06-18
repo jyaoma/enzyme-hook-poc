@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test0 should render again 1`] = `
+<div>
+  <input
+    checked={false}
+    onChange={[Function]}
+    type="checkbox"
+  />
+  <div>
+    False
+  </div>
+</div>
+`;
+
+exports[`Test0 should render correctly 1`] = `
+<div>
+  <input
+    checked={false}
+    onChange={[Function]}
+    type="checkbox"
+  />
+  <div>
+    False
+  </div>
+</div>
+`;
